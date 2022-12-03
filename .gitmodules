@@ -4,3 +4,6 @@
 [submodule "rock_paper_scissors_tournament"]
 	path = rock_paper_scissors_tournament
 	url = git@github.com:miltonio94/rock_paper_scissors_tournament.git
+[submodule "aoc_3_sort_rucksack_reorganization"]
+	path = aoc_3_sort_rucksack_reorganization
+	url = git@github.com:miltonio94/aoc_3_sort_rucksack_reorganization.git
