@@ -1,0 +1,3 @@
+[submodule "elfWithMostCalories"]
+	path = elfWithMostCalories
+	url = git@github.com:miltonio94/elfWithMostCalories.git
