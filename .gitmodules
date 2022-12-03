@@ -1,3 +1,6 @@
 [submodule "elfWithMostCalories"]
 	path = elfWithMostCalories
 	url = git@github.com:miltonio94/elfWithMostCalories.git
+[submodule "rock_paper_scissors_tournament"]
+	path = rock_paper_scissors_tournament
+	url = git@github.com:miltonio94/rock_paper_scissors_tournament.git
